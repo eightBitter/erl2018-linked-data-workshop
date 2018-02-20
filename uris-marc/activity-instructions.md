@@ -4,7 +4,7 @@
 ## Step 1: Convert MARC records to .mrc 
 1. Open MARCEdit
 2. Click on the MARC Tools icon
-3. Click on the yellow folder icon next to the Input File field and locate the file “marc_records” in the workshop folder. You may need to show all file types to see the file
+3. Click on the yellow folder icon next to the Input File field and locate the file “marc_records” in the activity folder. You may need to show all file types to see the file
 4. Assign the same file path to the input file, but with a .mrk file extension
 5. Confirm that the MarcBreaker function is selected
 6. Click Execute
@@ -12,15 +12,15 @@
 8. Choose File>Save as and save the file as “marc_records.mrc”
 9. You should now have the .mrk and .mrc files in your folder
 ## Step 2: Harvest URIs
-1.  Open MARCEdit
-2. Click on the MARC Tools icon
-3. Click on the yellow folder icon next to the Input File field and locate the file “marc_records” in the workshop folder. You may need to show all file types to see the file.
-4. Assign the same file path to the input file, but with a .mrk file extension
-6. Confirm that the MarcBreaker function is selected
-6. Click Execute
-7. Return to the folder where you saved your file and open marc_records.mrk
-8. Choose File>Save as and save the file as “marc_records.mrc”
-9. You should now have the .mrk and .mrc files in your folder
+1. Return to the MarcEdit home screen
+2. Choose MARCNext, then Link Identifiers
+3. Click on the yellow folder icon next to the Source File field and locate the .mrc file you created in the previous step
+4. Assign the same file path to the Save File, but add an “ld” to the file name and change the extension to .mrk
+5. Under ID Services, select the following check boxes:
+ * AutoDetect Main/Added entry
+ * AutoDetect Subject ID
+ * OCLC VIAF
+6. Click Process. The file should take about 3 minutes to process
 ## Step 3: Explore the results
 1. Return to your project folder and open the file marc_records_ld.mrk
 2. Choose a few records and look at the URIs that have been imported to the $0 of the following fields:
