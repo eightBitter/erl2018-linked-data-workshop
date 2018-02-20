@@ -22,8 +22,8 @@
  * AutoDetect Main/Added entry
  * AutoDetect Subject ID
  * OCLC VIAF
-![MARCEdit ready to harvest URIs](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_2.6.png)
 6. Click Process. The file should take about 3 minutes to process
+![MARCEdit ready to harvest URIs](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_2.6.png)
 ## Step 3: Explore the results
 1. Return to your project folder and open the file marc_records_ld.mrk
 2. Choose a few records and look at the URIs that have been imported to the $0 of the following fields:
