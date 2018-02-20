@@ -8,9 +8,11 @@
 4. Assign the same file path to the input file, but with a .mrk file extension
 5. Confirm that the MarcBreaker function is selected
 6. Click Execute
+![MARCEdit ready to convert ILS export to .mrk file](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_1.6.png)
 7. Return to the folder where you saved your file and open marc_records.mrk
 8. Choose File>Save as and save the file as “marc_records.mrc”
 9. You should now have the .mrk and .mrc files in your folder
+![Activity folder with .mrk and .mrc files](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_1.9.png)
 ## Step 2: Harvest URIs
 1. Return to the MarcEdit home screen
 2. Choose MARCNext, then Link Identifiers
@@ -20,6 +22,7 @@
  * AutoDetect Main/Added entry
  * AutoDetect Subject ID
  * OCLC VIAF
+![MARCEdit ready to harvest URIs](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_2.6.png)
 6. Click Process. The file should take about 3 minutes to process
 ## Step 3: Explore the results
 1. Return to your project folder and open the file marc_records_ld.mrk
@@ -28,6 +31,7 @@
   * 6XX
   * 7XX
 3. Visit some of the HTTP URIs
+![URI in MARC file](https://github.com/eightBitter/erl2018-linked-data-workshop/blob/master/uris-marc/screenshots/step_3.2.png)
 ## Discussion
 1. What kind of information can you find?
 2. What linked data sources have been used?
