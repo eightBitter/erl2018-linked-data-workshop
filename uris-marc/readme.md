@@ -1,0 +1,1 @@
+This activity describes how to use MARCEdit to harvest URIs for authors and subject headings and insert them into MARC records. It is based on a project original done by the North Carolina State University Acquisitions & Discovery Department. 
