@@ -1,0 +1,1 @@
+This activity illustrates how to use OpenRefine to reconcile textual data against a linked data source and pull in actionable URIs. It is based on a project originally done by the North Carolina State University Acquisitions & Discovery Department.

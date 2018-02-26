@@ -1,1 +1,1 @@
-Skeleton readme. Edit later.
+This repository contains materials for the linked data workshop presented at ER&L 2018 (see <http://www.electroniclibrarian.org/18-workshop-linked-data/>). These activities are meant to expose the audience to a variety of linked data technologies and approaches. Please feel free to use and adapt these materials for local educational purposes.

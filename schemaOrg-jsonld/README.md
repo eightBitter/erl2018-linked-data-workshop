@@ -1,0 +1,1 @@
+This activity provides an introduction to Schema.org and JSON-LD, and illustrates how these technologies can be used to enhance discovery of information on the open web. It is based on a project originally done by the North Carolina State University Acquisitions & Discovery Department.
